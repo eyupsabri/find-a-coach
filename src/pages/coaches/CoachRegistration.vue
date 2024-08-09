@@ -1,0 +1,1 @@
+<template>COACH registration</template>
